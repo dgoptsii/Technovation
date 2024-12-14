@@ -1,10 +1,7 @@
 import streamlit as st
 
 
-st.title("🎈 My new app")
+st.title("Technovation project")
 st.write(
-    "Some changes has been made"
-    "I made some more"
-    "and again some more"
+    "I am making the project"
 )
-print("World")
