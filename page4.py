@@ -2,7 +2,7 @@ import streamlit as st
 
 def app():
     st.title("Contact us")
-    st.write("This is the content of Page 4.")
+  
 # Запит 4 імен та відповідних Gmail-адрес
 names = []
 emails = []
